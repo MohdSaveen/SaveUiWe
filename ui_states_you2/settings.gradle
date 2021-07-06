@@ -1,0 +1,2 @@
+rootProject.name = "ui_states_you2"
+include ':app'

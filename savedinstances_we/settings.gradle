@@ -1,0 +1,2 @@
+rootProject.name = "savedinstances_we"
+include ':app'
